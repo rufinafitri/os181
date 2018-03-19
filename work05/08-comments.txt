@@ -1,0 +1,4 @@
+# Tue Mar 18 09:19:33 WIB 2018
+# Comments:
+# Mencoba command 'top' pada CLI, menyimpan pengaturan tampilan top ke file ~/.toprc
+# Running program 06-memory dan menyimpan hasil output di 07-result.txt
