@@ -1,4 +1,4 @@
-/*
+/* Already Running By Rufina Fitri Anjani
  * (c) 2016-2017 Rahmat M. Samik-Ibrahim
  * http://rahmatm.samik-ibrahim.vlsm.org/
  * This is free software.
